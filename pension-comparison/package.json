@@ -1,0 +1,15 @@
+{
+  "name": "pension-comparison-engine",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "chart.js": "4.4.8"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  },
+  "scripts": {
+    "test": "node --test",
+    "build": "esbuild assets/js/app.js --bundle --format=iife --minify --outfile=assets/js/app.bundle.js"
+  }
+}

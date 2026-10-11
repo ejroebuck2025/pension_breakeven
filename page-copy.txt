@@ -1,0 +1,72 @@
+PENSION COMPARISON TOOL: PAGE COPY
+
+SEO title
+Pension Lump Sum and Income Comparison Calculator
+
+Meta description
+Compare pension lump sums and regular payments over time. Explore how payment amounts and start ages affect cumulative income, using your own assumptions.
+
+H1
+Compare pension income options
+
+Opening copy
+Many pension schemes let you choose when your income starts. Depending on the scheme, taking a larger cash lump sum may mean receiving a smaller regular payment. Waiting to claim may also increase your eventual payment.
+
+Those options can be difficult to compare by looking at monthly amounts alone. This calculator puts estimated lump sums and regular payments on the same timeline and shows how much each scenario could pay in total over time.
+
+If a later-start option takes years to catch up with the payments you gave up by waiting, it may only produce a higher total if payments continue long enough. The result depends on the amounts and dates you enter, and how long payments are received.
+
+Enter the figures available to you, compare up to three scenarios, and see how the totals change by your estimated life expectancy. The result is an illustration of cumulative cash received, not a measure of investment value or a recommendation about which option to choose.
+
+FREQUENTLY ASKED QUESTIONS
+
+1. What does the pension comparison calculator show?
+
+It compares estimated lump sums and regular pension payments across up to three scenarios. You can change each scenario's payment amount, tax assumption and start age, then compare cumulative net receipts at different ages. It does not calculate your entitlement or contact a pension provider.
+
+2. What does “life expectancy age” mean in the calculator?
+
+It is a statistical comparison age derived from the ONS 2022–2024 Great Britain period life table and your selected gender and current age. It is not a prediction of how long you will live. The table reflects mortality rates during a past period and does not predict future changes or individual circumstances.
+
+3. Does the calculator tell me which pension option is best?
+
+No. It compares estimated cash received under the assumptions entered. It does not account for every factor that may matter, including investment returns, inflation, other income, household circumstances, survivor benefits, scheme guarantees or the value of money received sooner. Consider getting guidance from an appropriately qualified adviser before making a decision.
+
+4. Does the calculator include inflation or calculate today's value of money?
+
+No. Payments are treated as fixed nominal amounts and are not adjusted for inflation. The results are totals of the amounts entered, not inflation-adjusted or discounted values. The calculator also uses the flat tax percentages you enter; it does not calculate personal tax liability.
+
+5. How does delaying the UK State Pension affect payments?
+
+For people reaching State Pension age on or after 6 April 2016, the State Pension generally increases by 1% for every 9 weeks deferred, which is just under 5.8% for 52 weeks. Different rules apply to people who reached State Pension age before that date, and eligibility or other benefits can affect deferral. Check your own forecast and the current GOV.UK rules. This calculator does not apply the State Pension deferral formula automatically; enter an estimated start age and payment amount for each scenario.
+
+6. Can I compare claiming US Social Security early or later?
+
+You can enter different start ages and estimated benefit amounts, but the calculator is not a Social Security estimator. For people born in 1943 or later, Social Security delayed retirement credits generally increase a worker's retirement benefit by 8% for each full year after full retirement age, up to age 70. The percentage depends on birth year, and delayed credits do not increase a spousal benefit in the same way. Check your Social Security statement and the Social Security Administration's rules before using figures here.
+
+7. How does the claim age affect the Canada Pension Plan (CPP)?
+
+CPP retirement pensions can generally start from age 60 to 70. Starting before 65 reduces the monthly amount by 0.6% for each month early, up to 36% at age 60. Starting after 65 increases it by 0.7% for each month deferred, up to 42% at age 70. The calculator does not calculate a CPP entitlement; enter estimates from your Service Canada account or statement.
+
+8. Can I defer Canada's Old Age Security (OAS)?
+
+OAS can generally be deferred after age 65, up to age 70. The monthly amount increases by 0.6% for each month deferred, to a maximum 36% increase at age 70. OAS eligibility, income recovery tax and related benefits may affect what you receive. The calculator does not determine OAS eligibility or apply its deferral adjustment automatically.
+
+9. Can I choose a later start age for Ireland's State Pension (Contributory)?
+
+For people born on or after 1 January 1958, Ireland allows a choice of claiming between ages 66 and 70, with the rate adjusted according to the selected claim age and contribution record. Check the Department of Social Protection for your applicable rate and eligibility. You can use those estimates as inputs, but this calculator does not apply Irish pension rules.
+
+10. Does Germany's statutory pension increase if I postpone claiming?
+
+Under Germany's statutory pension rules, postponing the start beyond the standard retirement age can increase the pension rate; the statutory adjustment is generally 0.5% for each month of deferral. Your standard age, insurance history and any further contributions affect the calculation. Confirm your personal estimate with Deutsche Rentenversicherung; this calculator does not calculate German pension rights.
+
+Official information
+
+UK State Pension deferral: https://www.gov.uk/deferring-state-pension
+US Social Security delayed retirement credits: https://www.ssa.gov/benefits/retirement/planner/delayret.html
+Canada Pension Plan start age: https://www.canada.ca/en/services/benefits/publicpensions/cpp/when-start.html
+Canada Old Age Security start age: https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/when-start.html
+Ireland State Pension (Contributory): https://www.gov.ie/en/department-of-social-protection/services/state-pension-contributory/
+German statutory pension law, SGB VI section 77: https://www.gesetze-im-internet.de/sgb_6/__77.html
+
+Pension rules can change and may depend on your birth date, contribution record, and circumstances. Verify current rules and your personal entitlement directly with the linked authority before relying on any figures.
